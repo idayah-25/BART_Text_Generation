@@ -1,0 +1,8 @@
+torch>=2.0
+transformers>=4.40
+datasets>=2.12
+sentencepiece>=0.1.98
+gradio>=3.40
+numpy>=1.24
+pandas>=2.0
+tqdm>=4.65
